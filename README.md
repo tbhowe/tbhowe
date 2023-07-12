@@ -18,8 +18,9 @@ I have a PhD in Neuroscience, with a focus on learning and memory in the Hippoca
 ## Some of my Favourite Projects:
 
 [Vision Transformers to Identify Fish Species](https://github.com/tbhowe/fish_ID_VIT)
+<br>
 [Identifying Hippocampal Replay in REM Sleep](https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab)
-
+<br>
 
 
 
