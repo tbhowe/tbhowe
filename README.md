@@ -1,7 +1,7 @@
 # Hi! I'm Tim Howe
 
 <br>
-<p align=center><img src=images/about_me.png width=700></p>
+<p align=center><img src=images/about_me.png width=900></p>
 <br>
 
 I have a PhD in Neuroscience, with a focus on learning and memory in the Hippocampus. I'm now working as a Data Scientist and curriculum designer for AiCore. 
