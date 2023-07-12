@@ -1,10 +1,26 @@
 # Hi! I'm Tim Howe
 
-<br>
-<p align=center><img src=images/about_me.png width=900></p>
-<br>
+## About Me
+
+```python
+tim_howe = {
+    'name': 'Tim Howe',
+    'location': 'Mevagissey, Kernow, UK',
+    'computer_languages': ['Python', 'Matlab', 'SQL', 'R' ],
+    'human_languages': ['English', 'French', 'German', 'Cymraeg','Kernewek'],
+    'interests': ['Data Science', 'Machine Learning', 'Generative AI', 'Neuroscience', 'Molecular Biology','Fishing','Electronic Music'],
+    'pets': ['2 cats', '2 dogs']
+}
+```
 
 I have a PhD in Neuroscience, with a focus on learning and memory in the Hippocampus. I'm now working as a Data Scientist and curriculum designer for AiCore. 
+
+## Some of my Favourite Projects:
+
+[Vision Transformers to Identify Fish Species](https://github.com/tbhowe/fish_ID_VIT)
+[Identifying Hippocampal Replay in REM Sleep](https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab)
+
+
 
 
 
