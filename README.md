@@ -1,4 +1,4 @@
-# Hi! I'm Tim Howe
+# Hi! I'm Tim
 
 ## About Me
 
@@ -13,7 +13,7 @@ tim_howe = {
 }
 ```
 
-I have a PhD in Neuroscience, with a focus on learning and memory in the Hippocampus. I'm now working as a Data Scientist and curriculum designer for AiCore. 
+I have a PhD in neuroscience, with a focus on learning and memory in the Hippocampus. I'm now working as a Data Scientist and curriculum designer for AiCore. I am interested in all aspects of data science, with a particular focus on time-series analysis, leveraging techniques from machine learning and systems neuroscience to solve business problems.
 
 ## Some of my Favourite Projects:
 
