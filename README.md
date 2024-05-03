@@ -9,7 +9,7 @@ tim_howe = {
     'computer_languages': ['Python', 'SQL', 'Matlab', 'R' ],
     'human_languages': ['English', 'French', 'German', 'Cymraeg','Kernewek'],
     'interests': ['Data Science', 'Machine Learning', 'Generative AI', 'Neuroscience', 'Molecular Biology','Fishing','Electronic Music'],
-    'pets': ['2 cats', '2 dogs']
+    'pets': [{'dogs':2},{'cats':1}]
 }
 ```
 
