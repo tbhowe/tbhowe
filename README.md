@@ -6,7 +6,7 @@
 tim_howe = {
     'name': 'Tim Howe',
     'location': 'Mevagissey, Kernow, UK',
-    'computer_languages': ['Python', 'Matlab', 'SQL', 'R' ],
+    'computer_languages': ['Python', 'SQL', 'Matlab', 'R' ],
     'human_languages': ['English', 'French', 'German', 'Cymraeg','Kernewek'],
     'interests': ['Data Science', 'Machine Learning', 'Generative AI', 'Neuroscience', 'Molecular Biology','Fishing','Electronic Music'],
     'pets': ['2 cats', '2 dogs']
