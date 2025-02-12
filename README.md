@@ -17,7 +17,7 @@ I have a PhD in neuroscience, with a focus on learning and memory in the Hippoca
 
 ## Some of my Favourite Projects:
 
-[Fishcaptures: a real-time environmental data logger for anglers and biologists](ttps://github.com/tbhowe/fishcaptures)
+[Fishcaptures: a real-time environmental data logger for anglers and biologists](https://github.com/tbhowe/fishcaptures)
 <br>
 [Identifying Hippocampal Replay in REM Sleep](https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab)
 <br>
