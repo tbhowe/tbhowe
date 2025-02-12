@@ -13,11 +13,11 @@ tim_howe = {
 }
 ```
 
-I have a PhD in neuroscience, with a focus on learning and memory in the Hippocampus. I'm now working as a Data Scientist and curriculum designer for AiCore. I am interested in all aspects of data science, with a particular focus on time-series analysis, leveraging techniques from machine learning and systems neuroscience to solve business problems.
+I have a PhD in neuroscience, with a focus on learning and memory in the Hippocampus. I'm now working for AiCore as a Subject Matter Expert in AI and Data. I am interested in all aspects of AI, Data and Cloud, with a particular focus on time-series analysis, leveraging techniques from machine learning and systems neuroscience to solve business problems.
 
 ## Some of my Favourite Projects:
 
-[Vision Transformers to Identify Fish Species](https://github.com/tbhowe/fish_ID_VIT)
+[Fishcaptures: a real-time environmental data logger for anglers and biologists]([https://github.com/tbhowe/fish_ID_VIT](https://github.com/tbhowe/fishcaptures))
 <br>
 [Identifying Hippocampal Replay in REM Sleep](https://github.com/tbhowe/Louis-Wilson-Template-Correlation-Matlab)
 <br>
